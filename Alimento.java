@@ -7,13 +7,18 @@
  */
 public class Alimento
 {
-    // instance variables - replace the example below with your own
-    private String nombreAlimento;
-    private float gramosProteinas;
-    private float carbohidratos;
-    private float grasas;
-    private float calorias;
-    private String componente;
+    // variable para el nombreAlimento
+    public String nombreAlimento;
+    // variable para los gramos 
+    public float gramosProteinas;
+    // variable para los carbohidratos
+    public float carbohidratos;
+    // variable para las grasas
+    public float grasas;
+    // variable para las calorias
+    public float calorias;
+    // variable para los componenentes
+    public String componente;
     
 
     /**
