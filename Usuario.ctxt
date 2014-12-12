@@ -5,4 +5,5 @@ comment1.params=
 comment1.target=java.lang.String\ nombreUsuario()
 comment2.params=nombreAlimento\ grasas
 comment2.target=void\ comer(Alimento,\ Alimento)
+comment2.text=\r\n\ Creado\ metodo\ para\ comer\ el\ usuario.\ \r\n
 numComments=3
